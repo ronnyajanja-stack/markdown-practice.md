@@ -12,9 +12,10 @@
   2. Use `git add <file name>`to move the changes to the staging area.
   3. Use `git commit -m "your commit message"`to permanently save your snapshot to the history.
 | TOOL            |    PURPOSE                                   | LINK                        |
-----------------------------------------------------------------------------------------------------------------------------------------------
-|Luma dream machine|Generating cinematic high quality AI video clips from text prompts for narrative story telling |[Link text] (lumalabs.ai)|
-|ElevenLabs|Creating hyper realistic, studio quality AI voice overs and multi lingual voice clones for video narration| [Link text] (elevenlabs.io)|
+------------------------------------------------------------------------------------------------
+| :--- | :--- | :--- |
+| Luma dream machine | Generating cinematic high quality AI video clips from text prompts for narrative story telling | [Link text](lumalabs.ai) |
+| ElevenLabs | Creating hyper realistic, studio quality AI voice overs and multi lingual voice clones for video narration | [Link text](elevenlabs.io) |
 ##Items related to my learning goals.
 - [] learn AI engineering.
 - [] learn machine language.
