@@ -11,6 +11,7 @@
   1. Make changes to your files in your project folder
   2. Use `git add <file name>`to move the changes to the staging area.
   3. Use `git commit -m "your commit message"`to permanently save your snapshot to the history.
+```markdown
 | TOOL            |    PURPOSE                                   | LINK                        |
 | :--- | :--- | :--- |
 -------------------------------------------------------------------------------------------------
