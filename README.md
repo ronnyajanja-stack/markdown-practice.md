@@ -19,7 +19,6 @@
 ```markdown
 | TOOL            |    PURPOSE                                   | LINK                        |
 | :--- | :--- | :--- |
--------------------------------------------------------------------------------------------------
 | Luma dream machine | Generating cinematic high quality AI video clips from text prompts for narrative story telling | [Link text](lumalabs.ai) |
 | ElevenLabs | Creating hyper realistic, studio quality AI voice overs and multi lingual voice clones for video narration | [Link text](elevenlabs.io) |
 
